@@ -1,0 +1,130 @@
+C:\Users\david\Desktop\game\hide and seek\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\david\Desktop\game\hide and seek\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\david\Desktop\game\hide and seek\Temp\bin\Debug\nunit.framework.dll
+C:\Users\david\Desktop\game\hide and seek\Temp\bin\Debug\UnityEditor.dll
+C:\Users\david\Desktop\game\hide and seek\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\david\Desktop\game\hide and seek\Temp\bin\Debug\UnityEngine.dll
+C:\Users\david\Desktop\game\hide and seek\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\david\Desktop\game\hide and seek\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\david\Desktop\game\hide and seek\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\david\Desktop\game\hide and seek\Temp\bin\Debug\UnityEngine.Timeline.dll
+C:\Users\david\Desktop\game\hide and seek\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\david\Desktop\game\hide and seek\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\david\Desktop\game\hide and seek\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\david\Desktop\game\hide and seek\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\david\Desktop\game\hide and seek\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Users\david\Desktop\game\hide and seek\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Users\david\Desktop\game\hide and seek\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\david\Desktop\game\hide and seek\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\david\Desktop\game\hide and seek\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\david\Desktop\game\hide and seek\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\david\Desktop\game\hide and seek\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\david\Desktop\game\hide and seek\Temp\bin\Debug\UnityEngine.xml
+C:\Users\david\Desktop\game\hide and seek\Temp\bin\Debug\UnityEditor.xml
+C:\Users\david\Desktop\game\hide and seek\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\david\Desktop\game\hide and seek\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\david\Desktop\game\hide and seek\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\david\Desktop\game\hide and seek\Temp\bin\Debug\nunit.framework.xml
+C:\Users\david\Desktop\game\hide and seek\Temp\bin\Debug\UnityEngine.Timeline.xml
+C:\Users\david\Desktop\game\hide and seek\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\david\Desktop\game\hide and seek\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\david\Desktop\game\hide and seek\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\david\Desktop\game\hide and seek\obj\Debug\Assembly-CSharp.dll
+C:\Users\david\Desktop\game\hide and seek\obj\Debug\Assembly-CSharp.pdb
+C:\Users\t183\Desktop\Game Engine\Game Engine Ass\4pm\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\t183\Desktop\Game Engine\Game Engine Ass\4pm\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\t183\Desktop\Game Engine\Game Engine Ass\4pm\Temp\bin\Debug\nunit.framework.dll
+C:\Users\t183\Desktop\Game Engine\Game Engine Ass\4pm\Temp\bin\Debug\UnityEditor.dll
+C:\Users\t183\Desktop\Game Engine\Game Engine Ass\4pm\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\t183\Desktop\Game Engine\Game Engine Ass\4pm\Temp\bin\Debug\UnityEngine.dll
+C:\Users\t183\Desktop\Game Engine\Game Engine Ass\4pm\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\t183\Desktop\Game Engine\Game Engine Ass\4pm\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\t183\Desktop\Game Engine\Game Engine Ass\4pm\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\t183\Desktop\Game Engine\Game Engine Ass\4pm\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\t183\Desktop\Game Engine\Game Engine Ass\4pm\Temp\bin\Debug\UnityEngine.VR.dll
+C:\Users\t183\Desktop\Game Engine\Game Engine Ass\4pm\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\t183\Desktop\Game Engine\Game Engine Ass\4pm\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\t183\Desktop\Game Engine\Game Engine Ass\4pm\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\t183\Desktop\Game Engine\Game Engine Ass\4pm\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\t183\Desktop\Game Engine\Game Engine Ass\4pm\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\t183\Desktop\Game Engine\Game Engine Ass\4pm\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\t183\Desktop\Game Engine\Game Engine Ass\4pm\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\t183\Desktop\Game Engine\Game Engine Ass\4pm\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\t183\Desktop\Game Engine\Game Engine Ass\4pm\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\t183\Desktop\Game Engine\Game Engine Ass\4pm\Temp\bin\Debug\UnityEngine.xml
+C:\Users\t183\Desktop\Game Engine\Game Engine Ass\4pm\Temp\bin\Debug\UnityEditor.xml
+C:\Users\t183\Desktop\Game Engine\Game Engine Ass\4pm\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\t183\Desktop\Game Engine\Game Engine Ass\4pm\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\t183\Desktop\Game Engine\Game Engine Ass\4pm\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\t183\Desktop\Game Engine\Game Engine Ass\4pm\Temp\bin\Debug\nunit.framework.xml
+C:\Users\t183\Desktop\Game Engine\Game Engine Ass\4pm\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\t183\Desktop\Game Engine\Game Engine Ass\4pm\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\t183\Desktop\Game Engine\Game Engine Ass\4pm\Temp\bin\Debug\UnityEngine.VR.xml
+C:\Users\t183\Desktop\Game Engine\Game Engine Ass\4pm\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\t183\Desktop\Game Engine\Game Engine Ass\4pm\obj\Debug\Assembly-CSharp.dll
+C:\Users\t183\Desktop\Game Engine\Game Engine Ass\4pm\obj\Debug\Assembly-CSharp.pdb
+C:\Users\david\Desktop\4pm\4pm\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\david\Desktop\4pm\4pm\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\david\Desktop\4pm\4pm\Temp\bin\Debug\nunit.framework.dll
+C:\Users\david\Desktop\4pm\4pm\Temp\bin\Debug\UnityEditor.dll
+C:\Users\david\Desktop\4pm\4pm\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\david\Desktop\4pm\4pm\Temp\bin\Debug\UnityEngine.dll
+C:\Users\david\Desktop\4pm\4pm\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\david\Desktop\4pm\4pm\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\david\Desktop\4pm\4pm\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\david\Desktop\4pm\4pm\Temp\bin\Debug\UnityEngine.Timeline.dll
+C:\Users\david\Desktop\4pm\4pm\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\david\Desktop\4pm\4pm\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\david\Desktop\4pm\4pm\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\david\Desktop\4pm\4pm\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\david\Desktop\4pm\4pm\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Users\david\Desktop\4pm\4pm\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Users\david\Desktop\4pm\4pm\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\david\Desktop\4pm\4pm\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\david\Desktop\4pm\4pm\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\david\Desktop\4pm\4pm\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\david\Desktop\4pm\4pm\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\david\Desktop\4pm\4pm\Temp\bin\Debug\UnityEngine.xml
+C:\Users\david\Desktop\4pm\4pm\Temp\bin\Debug\UnityEditor.xml
+C:\Users\david\Desktop\4pm\4pm\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\david\Desktop\4pm\4pm\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\david\Desktop\4pm\4pm\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\david\Desktop\4pm\4pm\Temp\bin\Debug\nunit.framework.xml
+C:\Users\david\Desktop\4pm\4pm\Temp\bin\Debug\UnityEngine.Timeline.xml
+C:\Users\david\Desktop\4pm\4pm\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\david\Desktop\4pm\4pm\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\david\Desktop\4pm\4pm\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\david\Desktop\4pm\4pm\obj\Debug\Assembly-CSharp.dll
+C:\Users\david\Desktop\4pm\4pm\obj\Debug\Assembly-CSharp.pdb
+C:\Users\t183\Desktop\Game Engine\4AM\4AM\4pm\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\t183\Desktop\Game Engine\4AM\4AM\4pm\obj\Debug\Assembly-CSharp.dll
+C:\Users\t183\Desktop\Game Engine\4AM\4AM\4pm\obj\Debug\Assembly-CSharp.pdb
+C:\Users\t183\Desktop\Game Engine\4AM\4AM\4pm\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\t183\Desktop\Game Engine\4AM\4AM\4pm\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\t183\Desktop\Game Engine\4AM\4AM\4pm\Temp\bin\Debug\nunit.framework.dll
+C:\Users\t183\Desktop\Game Engine\4AM\4AM\4pm\Temp\bin\Debug\UnityEditor.dll
+C:\Users\t183\Desktop\Game Engine\4AM\4AM\4pm\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\t183\Desktop\Game Engine\4AM\4AM\4pm\Temp\bin\Debug\UnityEngine.dll
+C:\Users\t183\Desktop\Game Engine\4AM\4AM\4pm\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\t183\Desktop\Game Engine\4AM\4AM\4pm\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\t183\Desktop\Game Engine\4AM\4AM\4pm\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\t183\Desktop\Game Engine\4AM\4AM\4pm\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\t183\Desktop\Game Engine\4AM\4AM\4pm\Temp\bin\Debug\UnityEngine.VR.dll
+C:\Users\t183\Desktop\Game Engine\4AM\4AM\4pm\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\t183\Desktop\Game Engine\4AM\4AM\4pm\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\t183\Desktop\Game Engine\4AM\4AM\4pm\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\t183\Desktop\Game Engine\4AM\4AM\4pm\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\t183\Desktop\Game Engine\4AM\4AM\4pm\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\t183\Desktop\Game Engine\4AM\4AM\4pm\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\t183\Desktop\Game Engine\4AM\4AM\4pm\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\t183\Desktop\Game Engine\4AM\4AM\4pm\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\t183\Desktop\Game Engine\4AM\4AM\4pm\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\t183\Desktop\Game Engine\4AM\4AM\4pm\Temp\bin\Debug\UnityEngine.xml
+C:\Users\t183\Desktop\Game Engine\4AM\4AM\4pm\Temp\bin\Debug\UnityEditor.xml
+C:\Users\t183\Desktop\Game Engine\4AM\4AM\4pm\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\t183\Desktop\Game Engine\4AM\4AM\4pm\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\t183\Desktop\Game Engine\4AM\4AM\4pm\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\t183\Desktop\Game Engine\4AM\4AM\4pm\Temp\bin\Debug\nunit.framework.xml
+C:\Users\t183\Desktop\Game Engine\4AM\4AM\4pm\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\t183\Desktop\Game Engine\4AM\4AM\4pm\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\t183\Desktop\Game Engine\4AM\4AM\4pm\Temp\bin\Debug\UnityEngine.VR.xml
