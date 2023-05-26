@@ -2,7 +2,7 @@
 
 
 
-4AM is a survival horror and strategy game developed by David Choo Beng King, Pong Nai Jun, Yap Boon Keng and Calvin S’ing. In the game, player is put in a haunted hospital. As time pass, the power supply for the hospital will reduce.  In order to survive, player will need to generate enough electric power to power the hospital. The time limit for this game is 120 seconds (20 seconds equal to 1 minute in this game). 
+4AM is a survival horror and strategy game. In the game, player is put in a haunted hospital. As time pass, the power supply for the hospital will reduce.  In order to survive, player will need to generate enough electric power to power the hospital. The time limit for this game is 120 seconds (20 seconds equal to 1 minute in this game). 
 
 
 
